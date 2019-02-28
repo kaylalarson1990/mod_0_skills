@@ -1,13 +1,13 @@
 food ordering app:
 
 class -
-sign in
+payment
 
 attributes -
-emailAddress (string)
-password (string)
-
+cardNumber (string)
+zipCode (string)
+name (string)
 
 methods -
-sign in
-connect with a different account
+addCreditCard
+leaveTipForDeliveryDriver

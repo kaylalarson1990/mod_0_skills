@@ -6,11 +6,10 @@ reviews
 attributes -
 username (string)
 comments (string)
-date and time posted (dateTime)
-like/dislike a comment (boolean)
+date/time posted (dateTime)
+
 
 methods -
-write a comment
-post a comment
-delete a comment
-respond to a comment
+addNewComment
+sortReviews
+

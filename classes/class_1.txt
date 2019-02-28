@@ -7,11 +7,8 @@ attributes -
 foodOptions (array)
 drinkOptions (array)
 cateringOptions (array)
-price (int)
-calories (string)
 
 methods -
-place item in cart
-order food
-remove item from cart
-request alternative on food (i.e no mayo)
+addItem
+viewItem
+readItemDescription
