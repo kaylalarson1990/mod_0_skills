@@ -1,0 +1,16 @@
+food ordering app:
+
+class -
+reviews
+
+attributes -
+username (string)
+comments (string)
+date and time posted (dateTime)
+like/dislike a comment (boolean)
+
+methods -
+write a comment
+post a comment
+delete a comment
+respond to a comment
